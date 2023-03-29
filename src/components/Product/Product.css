@@ -44,3 +44,7 @@
 .btn-cart:hover {
     background-color: orange;
 }
+
+.shopping-cart{
+    margin-left: 0.5rem;
+}
